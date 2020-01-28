@@ -7,11 +7,12 @@
 		#container{
 			min-width: 1000px;
 			width: 1000px;
-/*			overflow: auto;
-*/			margin: 50px auto;padding: 30px;
+ 			overflow: auto;
+ 			margin: 50px auto;
+			padding: 30px;
 			/*zoom: 1;*/
-*//*			border: 1px solid #ccc;background: #fc9;color: #fff;
-*/		}
+ 			border: 1px solid #ccc;background: #fc9;color: #fff;
+ 		}
 		#left{
 			float: left;
 			width: 300px;
@@ -150,7 +151,7 @@
 			<div id="name">Yingqian Wang</div>
 			<div id="info">
 
-				Ph.D Student<p>
+				Ph.D. Student<p>
 				National University of Defense Technology (NUDT), China<p>
 				Email: wangyingqian16@nudt.edu.cn<p>				
 			</div>
